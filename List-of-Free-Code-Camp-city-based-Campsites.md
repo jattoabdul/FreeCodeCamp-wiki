@@ -339,6 +339,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
 - Nigeria
   - [Abuja](https://www.facebook.com/groups/abuja.free.code.camp/)
   - [Calabar](https://www.facebook.com/groups/free.code.camp.calabar/)
+  - [Ilorin](https://web.facebook.com/groups/free.code.camp.ilorin.nigeria/)
   - [Kaduna](https://www.facebook.com/groups/free.code.camp.kaduna/)
   - [Lagos](https://www.facebook.com/groups/free.code.camp.lagos/)
   - [Port Harcourt](https://www.facebook.com/groups/free.code.camp.port.harcourt/)
